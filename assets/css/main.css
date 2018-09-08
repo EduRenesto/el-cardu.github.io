@@ -1,0 +1,36 @@
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	justify-content: center;
+	padding: 0 30px;
+	text-align: center;
+	background: #FAFF00;
+	color: #1E1E1E;
+}
+
+main > .my-name {
+	font-family: 'Roboto', sans-serif;
+	font-size:  5em;
+	font-weight: 600;
+}
+
+main > .subtitle {
+	font-size: 2rem;
+	margin: 1.5rem 0;
+	font-weight: 100;
+}
+
+main > .icons-social i {
+	padding: 10px;
+	height: 100px;
+	font-size: 2em;
+}
+
+main > .icons-social a {
+	color: #1E1E1E;
+}
