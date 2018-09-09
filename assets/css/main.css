@@ -46,3 +46,11 @@ main > .icons-social a {
   from { width: 0 }
   to { width: 100% }
 }
+
+@media (max-width: 939px) {
+	main > .my-name {
+	animation: 
+	typing 1s steps(10, end),
+	blink-caret .1s step-end infinite;
+}
+}
