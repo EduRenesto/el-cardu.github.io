@@ -1,4 +1,4 @@
-# carduveloper.me
+![carduveloper.me](https://i.imgur.com/X1DUVF7.png)
 
 ### :vhs: about, a.k.a., autopromotion stuff
 
@@ -8,12 +8,31 @@ I'm [Cardu](https://github.com/cardu) from São Paulo, Brazil. I’m currently s
 
 ![linkedin: ceabatista](https://i.imgur.com/QZLAnLo.png) ![twitter: el_cardu](https://i.imgur.com/BkzBWGQ.png) ![telegram: el_cardu](https://i.imgur.com/L3uMzjA.png) 
 
+--
+
+### :running: how-to-run local
+
+1. Certify that you have installed in your machine.
+	- [Any CLI/Git](https://git-for-windows.github.io/)
+
+2. In your CLI, use the following commands!
+
+```bash
+# Clone this repository
+$ git clone https://github.com/el-cardu/el-cardu.github.io
+
+# Go into the repository
+$ cd el-cardu.github.io
+
+```
+
+3. Open your browser, have fun.
+
 ---
 
 ### :wrench: built with
 
 - HTML5, CSS3 && JS;
-- [Bootstrap 4](https://getbootstrap.com/);
 - [Github Pages](https://pages.github.com/).
 
 ---
@@ -23,6 +42,14 @@ I'm [Cardu](https://github.com/cardu) from São Paulo, Brazil. I’m currently s
 For bug fixes, documentation improvements, typos, translations and simple changes, just make a PR or open issues. <br/>
 
 For more complex changes, pls, make an issue first so we can discuss the design. <br/>
+
+Roadmap for contributing: </br>
+
+0. Fork it.
+1. Create your feature branch (git checkout -b my-new-feature).
+2. Commit your changes (git commit -am 'Add some feature').
+3. Push to the branch (git push origin my-new-feature).
+4. Create new Pull Request.
 
 ---
 
